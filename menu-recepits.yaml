@@ -1,41 +1,43 @@
-- ingredients:
-  - Riso
-  - Limone
-  - Brodo vegetale
-  - Parmigiano
-  name: Risotto al limone
-  recipe: Cuoci il riso, aggiungi il brodo vegetale e il limone. Alla fine, unisci
-    il parmigiano per mantecare.
-  type: Vegetariano
-- ingredients:
-  - Seitan
-  - Patate
-  - Rosmarino
-  name: Seitan grigliato
-  recipe: Griglia il seitan su una piastra ben calda e accompagna con patate arrosto
-    al rosmarino.
-  type: Vegetariano
-- ingredients:
-  - Farro
-  - Pomodorini
-  - Rucola
-  - Feta
-  name: Insalata di farro
-  recipe: Cuoci il farro, lascialo raffreddare e mescola con pomodorini, rucola e
-    feta.
-  type: Vegetariano
-- ingredients:
-  - Hamburger di manzo
-  - Pane integrale
-  - Insalata
-  name: Hamburger di manzo
-  recipe: "Cuoci l\u2019hamburger di manzo su una piastra calda, servilo con pane\
-    \ integrale e insalata mista."
-  type: Onnivoro
-- ingredients:
-  - Uova
-  - Broccoli
-  - Formaggio
-  name: Omelette con verdure
-  recipe: Sbatti le uova, cuoci in padella con broccoli e formaggio.
-  type: Vegetariano
+weekly_meals:
+  - ingredients:
+    - Riso
+    - Limone
+    - Brodo vegetale
+    - Parmigiano
+    name: Risotto al limone
+    recipe: Cuoci il riso, aggiungi il brodo vegetale e il limone. Alla fine, unisci
+      il parmigiano per mantecare.
+    type: Vegetariano
+  - ingredients:
+    - Seitan
+    - Patate
+    - Rosmarino
+    name: Seitan grigliato
+    recipe: Griglia il seitan su una piastra ben calda e accompagna con patate arrosto
+      al rosmarino.
+    type: Vegetariano
+  - ingredients:
+    - Farro
+    - Pomodorini
+    - Rucola
+    - Feta
+    name: Insalata di farro
+    recipe: Cuoci il farro, lascialo raffreddare e mescola con pomodorini, rucola e
+      feta.
+    type: Vegetariano
+  - ingredients:
+    - Hamburger di manzo
+    - Pane integrale
+    - Insalata
+    name: Hamburger di manzo
+    recipe: "Cuoci l\u2019hamburger di manzo su una piastra calda, servilo con pane\
+      \ integrale e insalata mista."
+    type: Onnivoro
+  - ingredients:
+    - Uova
+    - Broccoli
+    - Formaggio
+    name: Omelette con verdure
+    recipe: Sbatti le uova, cuoci in padella con broccoli e formaggio.
+    type: Vegetariano
+  
